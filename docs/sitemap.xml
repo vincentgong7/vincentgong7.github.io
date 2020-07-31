@@ -1,0 +1,11 @@
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    ><url>
+            <loc>https://www.gong.im/about/</loc><lastmod>2020-07-31T18:16:32&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://www.gong.im/my_phd/</loc><lastmod>2020-07-31T14:09:06&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://www.gong.im/posts/</loc><lastmod>2020-07-31T14:09:06&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://www.gong.im/</loc><lastmod>2020-07-31T14:09:06&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://www.gong.im/first_post/</loc><lastmod>2020-07-30T21:51:26&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://www.gong.im/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://www.gong.im/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
